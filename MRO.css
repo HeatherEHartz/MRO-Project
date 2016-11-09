@@ -1,0 +1,75 @@
+body {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	color: white;
+	background-size: cover;
+
+}
+
+h1	{
+	position: absolute; 
+   	top: 0px; 
+   	left: 0; 
+   	width: 100%;
+   	float: left;
+   	padding: 20px;
+   	margin: 0 auto;
+   	margin-bottom: 0px;
+   	font-variant: small-caps;
+}
+
+
+h2	{
+	position: absolute; 
+   	left: 0; 
+   	width: 100%;
+   	float: left;
+   	margin-top: 0px;
+   	padding: 20px;
+   	text-decoration: overline;
+   	font-variant: small-caps;
+
+}
+
+#HeroImage {
+	position: fixed;
+	background-size: cover; 
+  	top: -50%; 
+  	left: -50%; 
+  	width: 100%; 
+  	height: 100%;
+
+}
+
+.head-one {
+	position: absolute; 
+   	top: 0px; 
+   	left: 0; 
+   	width: 100%;
+   	float: left;
+   	padding: 20px;
+   	margin-bottom: 20px;
+
+}
+
+.head-two {
+	margin-top: 20px; 
+   	width: 100%;
+   	float: left;
+   	padding: 20px;
+   	margin-bottom: 20px;
+}
+
+.info {
+	
+	margin-top: 20px;
+   	left: 0; 
+   	width: 400px;
+	height: 200px;
+   	float: left;
+   	padding: 80px;
+   	margin-bottom: 20px;
+   	
+
+
+
+}
